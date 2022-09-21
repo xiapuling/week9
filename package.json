@@ -1,7 +1,8 @@
 {
   "dependencies": {
+    "bignumber": "^1.1.0",
     "browserify": "^17.0.0",
     "qs": "^6.11.0",
-    "web3": "^1.7.4"
+    "web3": "^1.8.0"
   }
 }
